@@ -37,7 +37,7 @@ int main()
     }
     else
     {
-        cout << "Something else" << endl;
+        cout << "You should think something else." << endl;
     }
     return 0;
 }
